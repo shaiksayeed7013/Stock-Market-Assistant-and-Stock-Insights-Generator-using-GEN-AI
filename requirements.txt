@@ -10,3 +10,4 @@ openai
 plotly
 seaborn
 nltk
+python-dotenv
